@@ -1,0 +1,33 @@
+_repo: Spillthrough_32657
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32657-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Galouye, Daniel F.
+    aliases:
+    - Galouje, Daniel F.
+    - Galouye, Daniel Francis
+    birthdate: 1920
+    deathdate: 1976
+    gutenberg_agent_id: '35969'
+    url: http://www.gutenberg.org/2009/agents/35969
+    wikipedia: http://en.wikipedia.org/wiki/Daniel_F._Galouye
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32657'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Space flight -- Fiction'
+title: Spillthrough
+url: http://www.gutenberg.org/ebooks/32657
